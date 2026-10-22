@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- last edited 2026-08-04: removed unreachable dead-key states 1/6/11/17/20; added stroke dead key (state 22); completed uppercase dead-key compositions; aligned Option+Shift+V/M/D and f/g/h/b with XKB altgr-intl -->
-<keyboard group="126" id="-11214" name="U.S. International – AltGr" maxout="2">
+<keyboard group="126" id="-11214" name="US International – AltGr" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>

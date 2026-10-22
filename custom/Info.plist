@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>io.github.aerz.keyboardlayout.us-altgr-intl</string>
+    <key>CFBundleName</key>
+    <string>US International – AltGr</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+    <key>CFBundleVersion</key>
+    <string>2</string>
+    <key>KLInfo_US International – AltGr</key>
+    <dict>
+        <!-- Preserve the input source ID already recognized for this bundle. -->
+        <key>TISInputSourceID</key>
+        <string>io.github.aerz.keyboardlayout.us-altgr-intl.keylayout.USInternational–AltGr</string>
+        <key>TISIconIsTemplate</key>
+        <true/>
+    </dict>
+</dict>
+</plist>

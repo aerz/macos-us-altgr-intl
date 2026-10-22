@@ -1,5 +1,7 @@
 # macos-us-altgr-intl
 
+For the custom layout and bundle instructions, see [CUSTOM.md](CUSTOM.md).
+
 ## Motivation
 
 [US International (with AltGr dead-keys) on macOS](https://carjorvaz.com/posts/us-international-with-altgr-dead-keys-on-macos/)
